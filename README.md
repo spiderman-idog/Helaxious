@@ -1,4 +1,4 @@
-# <p style="text-align: center">Beep Boop! (Hello there!)</p>
+# <p style="text-align: center">Beep Bop! (Hello there!)</p>
 
 Hey, I'm helaxious, a TV that likes to talk with computers and telling them what to do. My language of choice is Python, currently learning C++, and thinking on making games.
 
