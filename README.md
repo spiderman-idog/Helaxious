@@ -1,7 +1,9 @@
-# <p style="text-align: center">Beep Bop! (Hello there!)</p>
+# Beep Bop! (Hello there!)
 
-Hey, I'm helaxious, a TV that likes to talk with computers and telling them what to do. My language of choice is Python, currently learning C++, and thinking on making games.
+Hello, I'm helaxious, a 🇧🇷 TV that likes to talk with computers and telling them what to do. Currently wanting to learn Rust (wish me luck), and thinking on making games with Bevy.
 
-Thanks for stopping by, have a look at some of my pinned projects too!
+Currently using (and loving) neovim to code. And would use Python as the choice of language (though I rarely use it 🥲).
 
-(And if you're wondering, yes I'm Brazilian)
+Sometimes I code, sometimes I write something on my [blog](https://helaxious.github.io/snake_cases).
+
+Thanks for stopping by, have a look at some of my pinned projects.
